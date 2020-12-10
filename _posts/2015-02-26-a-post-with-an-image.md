@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A blog post with an image
-subtitle: Subtitle goes here
-bigimg: /img/path.jpg
+title: A blog post about me
+subtitle: Some fun facts
+bigimg: /170621-Puppy-Thumb.jpg
 ---
 
-Just some text here, but any Markdown will do.  Note the file naming scheme of the post, to include the date:  `2015-02-26-a-post-with-an-image.md`.  Also note the YAML block at the top of the post file.
+I'm 20 years old. My birthday is april 13th. I'm a twin! I speak 3 languages. I'm on the swim team at GW. I love bioinformatics!
