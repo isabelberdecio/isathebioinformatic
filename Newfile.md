@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Markdown-based page example
-subtitle: Subtitle goes here
+title: This is my new file
+subtitle: Attempt 1
 bigimg: /img/start.jpg
 ---
 
